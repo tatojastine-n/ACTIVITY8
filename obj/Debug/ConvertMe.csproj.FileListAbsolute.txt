@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ConvertMe\bin\Debug\ConvertMe.exe.config
+C:\Users\HP\source\repos\ConvertMe\bin\Debug\ConvertMe.exe
+C:\Users\HP\source\repos\ConvertMe\bin\Debug\ConvertMe.pdb
+C:\Users\HP\source\repos\ConvertMe\obj\Debug\ConvertMe.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConvertMe\obj\Debug\ConvertMe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConvertMe\obj\Debug\ConvertMe.exe
+C:\Users\HP\source\repos\ConvertMe\obj\Debug\ConvertMe.pdb
